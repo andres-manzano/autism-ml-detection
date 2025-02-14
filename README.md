@@ -1,4 +1,3 @@
-
 # Autism ML Detection
 
 ## Goals:
